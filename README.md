@@ -1,4 +1,4 @@
-# Sistemas-Operativos-Script
+# Operative Systems Script
 
-#Mediante código bash tomamos primero el número de tareas en ejecución, luego el porcentaje de memoria libre de RAM y al final #del disco duro, estos datos son subidos a la plataforma THINGSPEAK periódicamente.
+Through bash code, first we take the number of running tasks, then the percentage of free RAM memory and at the end of HDD, these data are uploaded to THINSPEAK platform periodically.
 
